@@ -1,5 +1,5 @@
 pipeline {
-	agent any
+	agent capital-dev
 	stages {
 		stage('---clean---'){
 			steps {
